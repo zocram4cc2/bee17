@@ -1,0 +1,28 @@
+10.0 //BackSpaceInfo
+0 //	dummy
+0 //	
+48 //CrossInfo
+64 //	dummy
+80 //
+96 //EarlyCrossInfo
+112 //	dummy
+128 //
+144 //LongPassInfo
+160 //	dummy
+176 //
+0 //OneTwoInfo
+0 //	dummy
+0 //
+0 //RotateInfo
+0 //	dummy
+0 //
+0 //SafetyPassInfo
+0 //	dummy
+0 //
+0 //SideChangeInfo
+0 //	dummy
+0 //
+0 //VsCountInfo
+0 //	dummy
+0 //
+0 //forceTargetGkTest

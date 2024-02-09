@@ -1,0 +1,23 @@
+0 //shotPattern
+0 //	cameraPos
+0 //		angleXZ
+1376 //		isLocalTransform
+0 //		offsetPoint
+0 //		offsetXZ
+0 //		offsetY
+10.0 //		point
+1 //	fovY
+1 //	lookAt
+7.0 //		angleXZ
+1.0 //		isLocalTransform
+0 //		isOffsetFromGround
+0 //		offsetXZ
+0 //		offsetY
+0 //		point
+1 //	percent
+0 //	scene
+0 //	timing
+4 //		interval
+0 //		offset
+0 //		point
+0 //		range

@@ -1,0 +1,5 @@
+3.0 //animeAccelLimitSpeed
+0.5 //animeAdjustLimitAngle
+0 //animeEnterSpeed
+16.0 //animePlaybackSpeedHighest
+5.0 //animePlaybackSpeedLowest

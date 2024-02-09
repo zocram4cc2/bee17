@@ -1,0 +1,28 @@
+16 //ConeKind
+32 //	value
+0 //	
+0 //MatchLevel
+48 //	value
+99 //
+99 //RestartKind
+0 //	value
+48 //
+99 //coneData
+99 //	kind
+0 //	posX
+1.6965168647955808e+19 //	posZ
+0.0 //	radius
+4.592662850494863e+27 //	
+3.393336421348287e+27 //failureDemoTime
+4.296496014042326e+24 //failureWaitTime
+2.6454226894448702e+20 //floatValue01
+4.1573935687907137e+21 //floatValue02
+1.8523600588218255e+28 //floatValue03
+2.6454226894448702e+20 //floatValue04
+1.721987008552156e+22 //floatValue05
+0.0 //floatValue06
+8.033020693532388e+20 //floatValue07
+0.0 //floatValue08
+0 //floatValue09
+0 //floatValue10
+0 //gradeBronze

@@ -1,0 +1,159 @@
+128 //InplayTapPassCheckSec
+0 //
+0 //UEFAShootFreekick
+0.2 //	clickArea
+208 //		h
+240 //		up
+288 //		w
+336 //	curve
+400 //		addKickRot
+416 //		multiply
+464 //		reverseCuveRate
+624 //		swipeDistMax
+688 //		swipeDistMin
+704 //	enable
+752 //	shootHeightFromSwipeSpeed
+768 //		enable
+784 //		goalMouseDown
+832 //		goalMouseOver
+0 //		goalMouseUpMax
+240.0 //		goalMouseUpMin
+-70.0 //		mouseOverValue
+240.0 //		nearStrongEnable
+0 //		pixcelDist
+4.0 //			enable
+1.3 //			far
+0.85 //			near
+200.0 //			nearStrong
+10.0 //			normalMax
+0 //			normalMin
+0 //	speed
+0 //		kickNormal
+1 //		kickStrong
+500.0 //		kickWeak
+75.0 //		swipeFastMax
+150.0 //		swipeFastMin
+350.0 //		swipeSlowMax
+300.0 //		swipeSlowMin
+0 //		
+0 //		
+1 //defenceMarkCalcApproachRate
+25.0 //	custom
+190.0 //	rate
+160.0 //	
+140.0 //	
+0.8 //foul
+1 //	action
+112 //		custom
+0.45 //		time
+0.7 //	area
+0.15 //		custom
+60.0 //		mode
+45.0 //		
+25.0 //		
+10.0 //freekick
+0 //	adjustedTargetSetplay
+64 //		adjustRateMax
+80 //		adjustRateMin
+1 //		custom
+144 //		paraMax
+176 //		paraMin
+0 //		specialist
+0 //		
+0 //		
+1 //gk
+0.55 //	catchable
+0 //		catchableSpeedDefaultMax
+0 //		catchableSpeedDefaultMin
+1 //		catchableSpeedMin
+25 //		custom
+0 //		frontAdjustRate
+0 //		punchableSpeedMax
+1 //		punchableSpeedMin
+1 //		tooNearDist
+0 //	gkPress
+0 //		advantageousRateClassical
+256 //		advantageousRateNormal
+272 //		advantageousRateOffensive
+0 //		custom
+0 //		
+0.8 //		
+0.4 //isAutoKickAfterRun
+1 //	custom
+80.0 //	
+50.0 //isShouldTurnBeforePass
+80.0 //	angle
+0 //		custom
+0 //		max
+304 //		min
+0 //	checkKickPointDist
+0 //	dist
+0 //		checkDistMiddle
+85.0 //		checkDistShort
+70.0 //		custom
+60.0 //		
+0 //		
+1.1 //stamina
+110.0 //	contactTired
+80.0 //		custom
+20.0 //		value
+1.0 //	dashTired
+0.5 //		custom
+0.1 //		value
+1 //	defenceTired
+352 //		custom
+384 //		value
+0 //		valueOwnSide
+0 //	dribbleTired
+0 //		custom
+0 //		value
+0 //	fallDownTired
+0 //		custom
+1 //		value
+120.0 //	jostleTired
+95.0 //		custom
+0 //		value
+35.0 //	metabolism
+30.0 //		custom
+1 //		value
+0 //	speedTired
+432 //		custom
+1.0 //		value
+448 //	staggerTired
+0 //		custom
+1 //		value
+0 //		
+0 //		
+0 //subConcept
+1 //	longPassLayOffAndBreakthroughToDefenceLine
+3.0 //		checkRot
+0 //		custom
+0 //		
+1 //		
+3.0 //thinkUnitDribbleBreakThrough
+3.0 //	custom
+0 //	
+1 //	
+2.0 //thinkUnitPassCross
+0 //	buildUpShort
+0 //		custom
+1 //		mode
+10.0 //	getTarget
+0 //		custom
+0 //		reverseSideShootRangeAngleSub
+1 //		
+2.0 //		
+0 //thinkUnitPassTarget
+0 //	custom
+1 //		
+8.0 //		
+0 //updateIntention
+0 //	custom
+1 //	
+1.0 //	
+0 //updateThinkList
+0 //	execSubConcept
+1 //		custom
+3.0 //		enemyDist
+0 //	intentionChallengeAttackSideCenter
+0 //		custom

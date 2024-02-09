@@ -1,0 +1,51 @@
+0 //defence
+0 //	keeper
+0 //	moveKind
+48 //	moveMode
+192 //	moveSpeed
+224 //	parameter
+0 //		control, fishDive, heel	//all in same block
+1 //		keeperCheckStyle
+0 //		keeperCheckType
+0 //		keeperStartParam
+0 //		kickerStartParam
+80 //	pattern
+0 //	situation
+0 //	stop
+0 //	
+1 //	
+1 //offence
+5 //	kickAuto
+2 //		checkXRate
+16 //		checkZ
+0 //		enable
+0 //	kickDebug
+1 //		adjustY
+0.6 //		adjustZ
+0.6 //		checkXRate
+1 //		checkZ
+0 //		enable
+6.0 //		shootKind
+6.0 //		startSpeedLevel
+0.5 //	kickMode
+2.0 //	kickPointBall
+1 //		y
+0 //		z
+6 //	kickPointDirect
+0 //		y
+1.0 //		z
+6.0 //	kickPointGoal
+0 //		y
+0 //		z
+1.2 //	kickPosition
+3.8 //		angle
+0 //		dist
+0 //		dribbleAiThink, dribbleStart	//both in same block
+0.5 //		shootGoalDist
+0.8 //		shootKpDist
+0 //	kickRotMode
+0 //	
+0 //retry
+30.0 //	auto
+256 //	code
+100.0 //	setid

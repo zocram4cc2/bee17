@@ -1,0 +1,31 @@
+10.0 //anime
+0 //	blockFarAdjustAngleLimit
+0 //	blockNearAdjustAngleLimit
+64 //	catchAdjustAngleLimit
+1.2 //	catchHandSideElapsedTime
+1.5 //	catchHoldBallSpeed
+0 //	collapsingBallSpeed
+12.0 //	collapsingElapsedTime
+20.0 //	contactDeflectAngle
+70.0 //	contactDeflectDist
+40.0 //	contactDeflectTest
+50.0 //	deflectAdjustAngleLimit
+40.0 //	physicalDeflectTest
+50.0 //	punchAdjustAngleLimit
+10.0 //	scoopOutFarAdjustAngleLimit
+0 //	scoopOutNearAdjustAngleLimit
+0 //	snapUnderAdjustAngleLimit
+0 //	
+0 //basePosRateClassicalGk
+80.0 //basePosRateOffensiveGk
+60.0 //checkFreeRangeGKLongThrow
+80.0 //checkFreeRangeGKNormalThrow
+0.15 //checkFreeRangeLowPantKick
+105.0 //lowPantKickRangeMax
+10.0 //lowPantKickRangeMin
+0.1 //throwRangeLongMax
+60.0 //throwRangeLongMin
+0.9 //throwRangeNormalMax
+0 //throwRangeNormalMin
+80.0 //waitTimeAddMax
+0 //waitTimeAddMin

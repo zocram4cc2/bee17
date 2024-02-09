@@ -1,0 +1,3 @@
+0 //longpassInplayUse
+0 //longpassSpeedKPHMax
+0 //longpassSpeedKPHMin

@@ -1,4 +1,0 @@
-95.0	//shootSpeedKPHMax
-75.0	//shootSpeedKPHMin
-0		//padding
-0		//padding

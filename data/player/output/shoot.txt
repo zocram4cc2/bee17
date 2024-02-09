@@ -1,0 +1,31 @@
+0 //advanceLoop
+0 //	distMax
+0 //	distMin
+48 //	heightMaxForGageMax
+80 //	heightMaxForGageMin
+112 //	heightMinForGageMax
+144 //	heightMinForGageMin
+176 //	
+192 //controlShootGageMax	//array
+208 //controlShootGageMid	//array
+240 //controlShootGageMin	//array
+272 //
+304 //control_dy
+0 //	gageMax
+0 //	gageMin
+50.0 //	interpolateRate
+5.0 //	
+10.0 //loop
+6.0 //	angleY
+2.0 //	manualRate
+1.2 //	speedForGageMax
+0 //	speedForGageMin
+0 //	
+80.0 //normalShootGageMax	//array
+80.0 //normalShootGageMid	//array
+82.0 //normalShootGageMin	//array
+84.0 //
+90.0 //normal_dy
+98.0 //	gageMax
+0 //	gageMin
+0 //	interpolateRate

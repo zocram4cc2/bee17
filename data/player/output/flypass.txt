@@ -1,0 +1,44 @@
+1.0 //attackSideAdjustAngleXZMax		//array
+0 //defenceSideAdjustAngleXZMax		//array
+0 //gageManualTest
+48 //
+64 //height
+1 //	distMax
+80 //	distMax_high
+112 //	distMin
+128 //	distMin_high
+144 //	heightForDistMaxParaMax
+160 //	heightForDistMaxParaMin
+-0.1 //	heightForDistMaxSkill
+30.0 //	heightForDistMax_high
+nan //	heightForDistMinParaMax
+176 //	heightForDistMinParaMin
+180.0 //	heightForDistMinSkill
+20.0 //	heightForDistMin_high
+10.0 //	
+0 //manual
+180.0 //	distForGageMax
+5.0 //	distForGageMin
+2.5 //	interpolateRate
+0 //	
+50.0 //manualBlendManualRateGageMax	//array
+50.0 //manualBlendManualRateGageStrong	//array
+0 //manualBlendManualRateGageWeak	//array
+0 //manualBlendParaMaxAdd
+6.0 //manualBlendthreshold
+9.5 //passAssistLevel
+1.2 //
+1.75 //search
+60.0 //	angleRate
+10.0 //	debugDisp_searchBasePoint
+0.3 //	distRate
+0 //	passTargetDistMax
+1.0 //	passTargetDistMaxOffset
+0.6 //	passTargetDistMin
+0.6 //	passTargetDistMinOffset
+0 //	searchMaxDist
+1.0 //	searchMinDist
+0.5 //	xAxisAngleMaxAngle
+0.5 //	xAxisAngleZeroAngle
+0 //	zAxisAngleMaxAngle
+1.0 //	zAxisAngleZeroAngle

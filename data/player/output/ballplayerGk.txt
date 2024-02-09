@@ -1,0 +1,20 @@
+0 //ClearInfo
+0 //	enemyDist
+0 //	forceKickTime
+16 //	
+32 //LongPassInfo
+64 //	forceEnemyDist
+0 //	forceKickTime
+5.0 //	limitLineFromPenaltyLine
+3.0 //	rangeFar
+0 //	rangeNear
+0 //	
+15.0 //ShortPassInfo
+3.0 //	courseCheckWidth
+0 //	passAngleSubMax
+60.0 //	passDistMax
+35.0 //	rangeFar
+0 //	rangeNear
+0 //	targetFreeDist
+0 //	
+40.0 //limitLineFromPenaltyLine

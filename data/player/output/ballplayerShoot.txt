@@ -1,0 +1,6 @@
+2.0 //rangeAngleGoalFront
+25.0 //rangeAngleMax
+0 //rangeDistForce
+48 //rangeDistHedding
+112 //rangeDistMiddle
+128 //rangeDistShort

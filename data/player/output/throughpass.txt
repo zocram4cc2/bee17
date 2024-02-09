@@ -1,0 +1,90 @@
+0 //adjustDashSpeedRate
+0 //adjustFlyPassFrame
+0 //adjustFrameSpaceRun
+0.8 //adjustFrameTime		//array
+1.2 //adjustFrameTimeBase
+15 //adjustMoveSpeedMax
+352 //adjustPassGetSpeed
+0 //adjustPassGetSpeedFly
+10.0 //adjustPassSpeedMax
+25.0 //adjustRatePassGetFrame
+35.0 //allowAngleWidth		//array
+50.0 //angleAddValue
+1.0 //angleRateMax
+368 //angleRateMaxFly
+4.0 //angleRateMin
+120.0 //angleRateMinFly
+120.0 //angleWidthMin
+85.0 //angleYMax
+85.0 //ballRouteAdjustMoveFrame
+16.0 //baseAdjustFrame
+60.0 //baseDistMax
+0.417 //baseDistMin
+52.0 //baseFrame
+30.0 //basePassGetSpeed
+0.417 //basePassGetSpeedFly
+35.0 //basePassSpeedMax
+45.0 //boundDist0
+30.0 //boundDist1
+23.0 //dashMoveSecForPassgetMin
+40.0 //debugDisp, debugDisp_searchBasePoint	//both in same block
+0.5 //distMaxAngleY
+0 //distMinAngleY
+3.0 //distToPassgetSpeed
+45.0 //flyDistRate
+1.0 //flyPassSpeedAdjustRate		
+384 //gageAdjustMaxSpeedFlyMinus	//array
+400 //gageAdjustMaxSpeedFlyPlus	//array
+416 //gageAdjustMaxSpeedMinus		//array
+432 //gageAdjustMaxSpeedPlus		//array
+5.0 //gageAdjustSpeedIntercept
+3.0 //gageAdjustSpeedInterceptBase
+0.0 //gageTest1, gageTest3, gageTest4, gageTest5 //all in same block
+36.0 //injectionAngleMax
+25.0 //manualFlyPassAngleYAdjust
+6.0 //manualPassAngleYAdjust
+4.0 //manualPassAngleYBase
+35.0 //manualPassSpeedAdjust
+35.0 //manualPassSpeedBase
+80 //marginFrame_max
+0 //marginFrame_min
+30.0 //maxPassTargetDist
+6.0 //minFlyDistFromTarget
+10.0 //minPassTargetDist
+15.0 //moveContinueFrameAdjustZposi
+50.0 //moveContinueFrameMax
+25.0 //moveContinueFrameMin
+0.042 //passFrameMargin
+1 //passGetSpeedTest
+7.0 //passPointDistMin
+0 //passgetAngleSub
+5.0 //passgetLineDiff
+2.0 //passgetMoveAngleDiff
+4.0 //passgetMoveLateDist
+nan //passgetMoveLateFrame
+70.0 //passgetMoveLateRate
+2.2 //passgetMovePointDistMax
+1.8 //passgetMovePointDistMin
+40.0 //passgetMovePointRate
+1.2 //passgetOutSideDiff
+96.0 //passgetSpeedRate
+93.0 //passgetSpeedRate2
+448 //searchAngleWidth	//array
+20.0 //searchLengthMax
+22.0 //searchLengthMax_fly
+1.0 //searchLengthMin
+50.0 //searchMaxDist
+60.0 //searchMaxDistFly
+2.0 //searchMinDist
+6.0 //searchMinDistFly
+0.0 //searchTest, searchTest2, stickTest1, stickTest3 //all in same block
+30.0 //targetDistMax
+8.0 //targetDistMin
+1.0 //targetDistSec
+20.0 //targetDistZMax
+14.0 //targetDistZMin
+45.0 //useSinCurveAngleY
+110.0 //wallTargetAdjustAngleWidth
+10.0 //wallTargetDistFrameMax
+0.2 //wallTargetDistFrameMin
+0 //wallTargetReverseDistRate

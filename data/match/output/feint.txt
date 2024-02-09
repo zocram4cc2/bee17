@@ -1,0 +1,36 @@
+15.0 //angleKind
+0.5 //	value
+0.5 //	
+48 //buttonKind
+64 //	value
+96 //	
+160 //buttonValue
+176 //	value
+0 //
+0 //category
+5728 //	value
+6288 //
+0 //feintKind
+0 //	value
+0 //
+6304 //feintLV
+0 //feintMode
+0 //
+0 //
+6316 //list
+6319 //	category
+6322 //	data
+6325 //		angleBase
+6328 //		angleL
+6331 //		angleR
+6334 //		button
+0 //		count
+6341 //		downRate
+6359 //		kind
+6377 //		sec
+6397 //	feint
+6414 //	inputKind
+6436 //	mirror
+6456 //	
+6483 //stickKind
+6510 //	value

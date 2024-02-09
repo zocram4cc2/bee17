@@ -1,0 +1,24 @@
+83 //longThrowSupport
+0 //	adjustRate
+0 //	enable
+32 //	mode
+1 //	
+48 //mode
+64 //		
+96 //seamlessThrowin
+0 //	dist
+0 //	touchLineDist
+0 //	
+0.5 //search
+1 //	distFarLongPara
+0 //	distFarNormal
+0 //	distMiddle
+5.0 //	distNear
+3.0 //	gageMiddle
+0 //	
+0 //speed
+32.0 //	adjustDistMax
+25.0 //	adjustDistMin
+15.0 //	adjustSpeed
+5.0 //	baseMaxKph
+0.6 //	baseMinKph

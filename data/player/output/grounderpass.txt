@@ -1,0 +1,48 @@
+35.0 //angleY
+20.0 //	angleForDistMax
+35.0 //	angleForDistMin
+64 //	distMax
+80 //	distMin
+96 //	
+1 //calcRecieveSpeed
+112 //	autoRecieveSpeedAddDistMax
+144 //	autoRecieveSpeedAddDistMin
+160 //	autoRecieveSpeedDecDistMax
+176 //	autoRecieveSpeedDecDistMin
+-0.1 //	
+20.0 //debug
+nan //	angleXZ
+192 //	dist
+224 //	enable
+0 //	recieveBallSpeed
+0 //	
+0 //gageManualTest
+7.0 //
+0 //lob
+40.0 //	enemyDistMax
+12.0 //	enemyDistMin
+15.0 //	enemyXPos
+10.0 //	lobHeightDistMax
+15.0 //	lobHeightDistMin
+10.0 //	passDistMax
+0 //	passDistMaxThrough
+0 //	
+0 //manual
+30.0 //	distForGageMax
+6.0 //	distForGageMin
+1.0 //	
+1.5 //manualBlendManualRateGageStrong	//array
+0.6 //manualBlendManualRateGageWeak	//array
+0.4 //manualBlendParaMaxAdd
+13.0 //manualBlendthreshold
+20.0 //paraMaxSpeedRate
+0 //paraMinSpeedRate
+40.0 //passAssistLevel
+2.25 //receiveSpeed					//array
+0 //
+0 //search
+1.0 //	angleRate
+0.8 //	debugDisp_searchBasePoint
+0.8 //	distRate
+0 //	searchMaxDist
+1.0 //	searchMinDist

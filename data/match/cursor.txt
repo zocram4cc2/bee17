@@ -1,4 +1,0 @@
-8.0		//dist
-15.0	//distWide
-0.5		//suspendTime
-0.5		//waitTime
