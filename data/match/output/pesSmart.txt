@@ -94,9 +94,9 @@
 110.0 //		
 80.0 //		
 20.0 //stamina
-1.7 //	contactTired
-1.5 //		custom
-1.3 //		value
+1.2 //	contactTired
+1.0 //		custom
+0.8 //		value
 1 //	dashTired
 352 //		custom
 384 //		value
@@ -119,39 +119,39 @@
 448 //	speedTired
 0 //		custom
 1 //		value
-0 //	staggerTired
+1.0 //	staggerTired
 0 //		custom
 0 //		value
 1 //		
-3.0 //		
+4.0 //		
 0 //subConcept
 0 //	longPassLayOffAndBreakthroughToDefenceLine
 1 //		checkRot
-3.0 //		custom
-3.0 //		
+4.0 //		custom
+4.0 //		
 0 //		
 1 //thinkUnitDribbleBreakThrough
-2.0 //	custom
+3.0 //	custom
 0 //	
 0 //	
 1 //thinkUnitPassCross
-10.0 //	buildUpShort
+11.0 //	buildUpShort
 0 //		custom
 0 //		mode
 1 //	getTarget
-2.0 //		custom
+3.0 //		custom
 0 //		reverseSideShootRangeAngleSub
 0 //		
 1 //		
-8.0 //thinkUnitPassTarget
+9.0 //thinkUnitPassTarget
 0 //	custom
 0 //		
 1 //		
-1.0 //updateIntention
+2.0 //updateIntention
 0 //	custom
 0 //	
 1 //	
-3.0 //updateThinkList
+4.0 //updateThinkList
 0 //	execSubConcept
 0 //		custom
 480 //		enemyDist
