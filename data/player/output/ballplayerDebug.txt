@@ -1,4 +1,4 @@
 0 //cpustyle
-16 //param
-48 //playstyle
-288 //skill
+0 //param
+0 //playstyle
+16 //skill

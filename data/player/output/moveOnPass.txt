@@ -1,5 +1,5 @@
-0 //adjustWaitFrame
-37.0 //baseWaitFrame
-50 //continueFrame
-30 //distMax
-15.0 //distMin
+1.02 //adjustWaitFrame
+0 //baseWaitFrame
+0 //continueFrame
+37.0 //distMax
+50 //distMin

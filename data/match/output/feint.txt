@@ -1,36 +1,36 @@
-0.5 //angleKind
-48 //	value
-64 //	
-96 //buttonKind
-160 //	value
-176 //	
-0 //buttonValue
-0 //	value
-5728 //
-6288 //category
-0 //	value
+15.0 //angleKind
+0.5 //	value
+0.5 //	
+48 //buttonKind
+64 //	value
+96 //	
+160 //buttonValue
+176 //	value
 0 //
+0 //category
+5728 //	value
+6288 //
 0 //feintKind
-6304 //	value
+0 //	value
 0 //
-0 //feintLV
+6304 //feintLV
 0 //feintMode
-6316 //
-6319 //
-6322 //list
-6325 //	category
-6328 //	data
-6331 //		angleBase
-6334 //		angleL
-0 //		angleR
-6341 //		button
-6359 //		count
-6377 //		downRate
-6397 //		kind
-6414 //		sec
-6436 //	feint
-6456 //	inputKind
-6483 //	mirror
-6510 //	
-6539 //stickKind
-6565 //	value
+0 //
+0 //
+6316 //list
+6319 //	category
+6322 //	data
+6325 //		angleBase
+6328 //		angleL
+6331 //		angleR
+6334 //		button
+0 //		count
+6341 //		downRate
+6359 //		kind
+6377 //		sec
+6397 //	feint
+6414 //	inputKind
+6436 //	mirror
+6456 //	
+6483 //stickKind
+6510 //	value

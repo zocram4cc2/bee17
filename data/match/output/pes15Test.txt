@@ -1,38 +1,38 @@
--20.0 //pad
-1 //
-96 //project1vs1
-160 //	decelerateThreshold
-0 //	enable, loseNoDodgeFlag //both values in same block
-25.0 //	lostBallAfterStopTime
-1 //	pressCheckStepMoveDistance
-9.0 //	pressUpdateTimer
-2.0 //		ballAngleSub
--1.0 //		distFuzzyEnable
-40.0 //		distMax
-1 //		distMin
-0.1 //		hitFrameRate
-0 //		pressAngleSub
-10.0 //		rateKind
-3.0 //		timerMax
-40.0 //	waitTimer
-12.0 //		ballAngleSub
-6.0 //		distMax
-0.18 //		distMin
+20.0 //pad
+35.0 //
+-20.0 //project1vs1
+1 //	decelerateThreshold
+96 //	enable, loseNoDodgeFlag //both values in same block
+160 //	lostBallAfterStopTime
+0 //	pressCheckStepMoveDistance
+25.0 //	pressUpdateTimer
+1 //		ballAngleSub
+9.0 //		distFuzzyEnable
+2.0 //		distMax
+-1.0 //		distMin
+40.0 //		hitFrameRate
 1 //		pressAngleSub
-0.3 //		pressDistMax
-0 //		pressDistMin
-0 //		pressTimerMax
+0.1 //		rateKind
+0 //		timerMax
+10.0 //	waitTimer
+3.0 //		ballAngleSub
+40.0 //		distMax
+12.0 //		distMin
+6.0 //		pressAngleSub
+0.18 //		pressDistMax
+1 //		pressDistMin
+0.3 //		pressTimerMax
 0 //		rateKind
-0.2 //		timerMax
-257 //		
+0 //		timerMax
 0 //		
-2.0 //projectKick
-16 //	gageDisp
-48 //	gageSpeed
-0 //		cross
-0 //		longPass
-0.3 //		shoot
-0.3 //		shortPass
-0.25 //		throughPass
+0.2 //		
+257 //projectKick
+0 //	gageDisp
+2.0 //	gageSpeed
+16 //		cross
+48 //		longPass
+0 //		shoot
+0 //		shortPass
+0.3 //		throughPass
 0.3 //		
-0.3 //stopConcept
+0.25 //stopConcept

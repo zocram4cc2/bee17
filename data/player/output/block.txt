@@ -1,14 +1,14 @@
-0 //exec
-1 //
-32 //press
-0.5 //	checkArea
-0 //	checkDist
-0.0 //	checkDistShoot
+30.0 //exec
+10.0 //
+0 //press
+1 //	checkArea
+32 //	checkDist
+0.5 //	checkDistShoot
 0 //	enable
-0 //	target
+0.0 //	target
 0 //		centering, longPass, shoot, shortPass //all in same byte
 0 //		shortPassForecast
-1.0 //		
-3.0 //touchAfterSec
-1 //	normal
-16 //	speedBall
+0 //		
+0 //touchAfterSec
+1.0 //	normal
+3.0 //	speedBall

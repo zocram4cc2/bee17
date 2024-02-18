@@ -1,6 +1,6 @@
-1 //offerNum_diagonalRun
-32 //offerNum_lineBreak
-48 //offerNum_pullAway
-64 //offerNum_spaceRunChance
-80 //offerNum_spaceRunCounter
-96 //offerNum_spaceRunSecondLine
+32 //offerNum_diagonalRun
+48 //offerNum_lineBreak
+64 //offerNum_pullAway
+80 //offerNum_spaceRunChance
+96 //offerNum_spaceRunCounter
+112 //offerNum_spaceRunSecondLine

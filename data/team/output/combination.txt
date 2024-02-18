@@ -1,17 +1,17 @@
-0 //checkDist
-15.0 //checkWedgeAngle
-60.0 //checkWedgeFarX
-25.0 //checkWedgeNearX
-9.0 //checkWedgeOffsideX
-7.5 //checkZ
-4.0 //
-48 //combsCom
-272 //	area
+15.0 //checkDist
+60.0 //checkWedgeAngle
+25.0 //checkWedgeFarX
+9.0 //checkWedgeNearX
+7.5 //checkWedgeOffsideX
+4.0 //checkZ
+48 //
+272 //combsCom
+0 //	area
 0 //	kind
 0 //	
 0 //combsSide
-0 //	combs
-3 //		area
+3 //	combs
+5 //		area
 5 //		kind
-5 //		
-3 //useJson
+3 //		
+0 //useJson

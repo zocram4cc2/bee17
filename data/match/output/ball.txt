@@ -1,64 +1,64 @@
 0 //airRegistNormal
-1.0 //backSpinBuoyancyRate
-1.0 //backSpinLogRate
-7.0 //boundBoundSpeedMax
-12.0 //boundBoundSpeedMin
-2.0 //boundCheckBoundAddRate		//array
-256 //boundCheckFrictionAddRate	//array
-288 //boundCheckRotationDecRate
-0 //boundFrictionSpeedMax
-25.0 //boundFrictionSpeedMin
-10.0 //boundRate					//array
-0.7 //boundRollMax
-7.5 //boundRotationSpeedMax
-20.0 //boundRotationSpeedMin
-5.0 //boundToRotationAddRateXZ	//array
-320 //boundToRotationAddRateY
-0.07 //boundToRotationBaseXZ		//array
-352 //boundToRotationBaseY
-0.03 //boundToRotationSpeedMaxXZ
-0.7 //boundToRotationSpeedMaxY
-0.7 //boundToRotationSpeedMinXZ
-0.1 //boundToRotationSpeedMinY
-0.1 //curve
-0 //curveToSpeedMaxCurve
-6.6 //curveToSpeedMaxKPH
+0 //backSpinBuoyancyRate
+0 //backSpinLogRate
+1.0 //boundBoundSpeedMax
+1.0 //boundBoundSpeedMin
+7.0 //boundCheckBoundAddRate		//array
+12.0 //boundCheckFrictionAddRate	//array
+2.0 //boundCheckRotationDecRate
+256 //boundFrictionSpeedMax
+288 //boundFrictionSpeedMin
+0 //boundRate					//array
+25.0 //boundRollMax
+10.0 //boundRotationSpeedMax
+0.7 //boundRotationSpeedMin
+7.5 //boundToRotationAddRateXZ	//array
+20.0 //boundToRotationAddRateY
+5.0 //boundToRotationBaseXZ		//array
+320 //boundToRotationBaseY
+0.07 //boundToRotationSpeedMaxXZ
+352 //boundToRotationSpeedMaxY
+0.03 //boundToRotationSpeedMinXZ
+0.7 //boundToRotationSpeedMinY
+0.7 //curve
+0.1 //curveToSpeedMaxCurve
+0.1 //curveToSpeedMaxKPH
 0 //curveToSpeedSpeedYMax
-0.7 //curveToSpeedSpeedYMin
-0.1 //curveToSpeedSpeedYRateBase
+6.6 //curveToSpeedSpeedYMin
+0 //curveToSpeedSpeedYRateBase
 0.7 //debugKickAngle
-3.0 //debugKickSpeed
-35.0 //dragSpeedMax
-96.995 //dragSpeedMin
-56.996 //frictionRollRateMax		//array
-384 //frictionRollRateMin		//array
-416 //frictionRollSpeedMax	//array
-448 //frictionRollSpeedMin	//array
-480 //grounderBoundYAdd
-0.085 //grounderCTan
-8.0 //grounderFrictionRate
-0.98 //grounderSpeed
-20.0 //magnusRate
-0.035 //natualBoundA			//array
-512 //natualBoundB
-0.4 //naturalRoll
-2.0 //nonSpinMax
-105.0 //nonSpinMin
-45.0 //nonSpinRate
-1.0 //nonSpinTopDownDecRate
-1.0 //nonSpinTopRiseDecRate
+0.1 //debugKickSpeed
+0.7 //dragSpeedMax
+3.0 //dragSpeedMin
+35.0 //frictionRollRateMax		//array
+96.995 //frictionRollRateMin		//array
+56.996 //frictionRollSpeedMax	//array
+384 //frictionRollSpeedMin	//array
+416 //grounderBoundYAdd
+448 //grounderCTan
+480 //grounderFrictionRate
+0.085 //grounderSpeed
+8.0 //magnusRate
+0.98 //natualBoundA			//array
+20.0 //natualBoundB
+0.035 //naturalRoll
+512 //nonSpinMax
+0.4 //nonSpinMin
+2.0 //nonSpinRate
+105.0 //nonSpinTopDownDecRate
+45.0 //nonSpinTopRiseDecRate
 1.0 //pitchCondition
-nan //roll
--2.0 //rollToBoundAdd
-0.07 //rollToBoundRollMax
-7.0 //rollToBoundRollMin
-2.0 //rollToSpeedMaxKPH		//array
-18.0 //rollToSpeedMaxRoll
-7.5 //rollToSpeedSpeedYMax
-0.7 //rollToSpeedSpeedYMin
-0.1 //rollToSpeedSpeedYRateBase
-0.2 //rotationCustom, speedCustom	//same block
-0 //stopSpeed
-0.175 //topSpinChangeSpeed
-10.0 //topSpinDownDecRate
-1.0 //topSpinRiseDecRate
+1.0 //roll
+1.0 //rollToBoundAdd
+nan //rollToBoundRollMax
+-2.0 //rollToBoundRollMin
+0.07 //rollToSpeedMaxKPH		//array
+7.0 //rollToSpeedMaxRoll
+2.0 //rollToSpeedSpeedYMax
+18.0 //rollToSpeedSpeedYMin
+7.5 //rollToSpeedSpeedYRateBase
+0.7 //rotationCustom, speedCustom	//same block
+0.1 //stopSpeed
+0.2 //topSpinChangeSpeed
+0 //topSpinDownDecRate
+0.175 //topSpinRiseDecRate

@@ -1,22 +1,22 @@
 0 //adjustAngle
-2.0 //adjustAngleHigh
+0 //adjustAngleHigh
 0 //adjustGageFarZ
-0 //adjustGageNearZ
-2.0 //adjustSearchAngleRate	//array
-96 //adjustSpeed
-10.0 //adjustSpeedGrounder
--5.0 //adjustSpeedHigh
-0 //adjustStartPointRate	//array
-112 //allowAngleWidth			//array
-128 //centeringCurveAdjustMax
-4.5 //centeringCurveBase
-4.0 //centeringMaxSpeedHigh
-93.0 //centeringMaxSpeedLow
-89.0 //debugDisp, debugDisp_searchBasePoint, forceLowLob, gageTest //all in same block
-0.0 //isSkillLowLob, isValid_lowLob	//all in same block
-2.0 //limitBackX
-13.0 //limitFrontX
-144 //limitZRate				//array
-40.0 //searchMaxDist
-5.0 //searchMinDist
-0.0 //searchTest, searchTest2016, stickTest //all in same block
+2.0 //adjustGageNearZ
+0 //adjustSearchAngleRate	//array
+0 //adjustSpeed
+2.0 //adjustSpeedGrounder
+96 //adjustSpeedHigh
+10.0 //adjustStartPointRate	//array
+-5.0 //allowAngleWidth			//array
+0 //centeringCurveAdjustMax
+112 //centeringCurveBase
+128 //centeringMaxSpeedHigh
+4.5 //centeringMaxSpeedLow
+4.0 //debugDisp, debugDisp_searchBasePoint, forceLowLob, gageTest //all in same block
+93.0 //isSkillLowLob, isValid_lowLob	//all in same block
+89.0 //limitBackX
+0.0 //limitFrontX
+2.0 //limitZRate				//array
+13.0 //searchMaxDist
+144 //searchMinDist
+40.0 //searchTest, searchTest2016, stickTest //all in same block

@@ -1,12 +1,12 @@
-0 //angleDiff
-90.0 //angleDiff_good
-140.0 //checkBallDist
-22.0 //checkBallDistBP
-5.0 //checkBallDistBP_good
-6.5 //checkBallDist_good
-30.0 //checkLastLineDist
-7.0 //checkLastLineDist_good
-13.0 //checkZ
-27.0 //checkZ_good
-35.0 //eyeOff, lastLine, lastLineEnemy, pullAway //all in same byte
-0.0 //pullAwaySide
+90.0 //angleDiff
+140.0 //angleDiff_good
+22.0 //checkBallDist
+5.0 //checkBallDistBP
+6.5 //checkBallDistBP_good
+30.0 //checkBallDist_good
+7.0 //checkLastLineDist
+13.0 //checkLastLineDist_good
+27.0 //checkZ
+35.0 //checkZ_good
+0.0 //eyeOff, lastLine, lastLineEnemy, pullAway //all in same byte
+1 //pullAwaySide

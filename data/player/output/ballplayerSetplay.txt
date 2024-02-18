@@ -1,13 +1,13 @@
 0 //FreekickShoot
-16 //	range_frontZ
-48 //	range_max
-0.5 //	range_middle
-0 //	range_short
-12.0 //	range_width
-40.0 //	
-30.0 //Throwin
-23.0 //	range_long
-50.0 //	range_min
-0 //	range_short
+0 //	range_frontZ
+0 //	range_max
+16 //	range_middle
+48 //	range_short
+0.5 //	range_width
 0 //	
+12.0 //Throwin
+40.0 //	range_long
+30.0 //	range_min
+23.0 //	range_short
+50.0 //	
 0 //waitTimerMin

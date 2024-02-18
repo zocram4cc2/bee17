@@ -1,159 +1,159 @@
-0 //InplayTapPassCheckSec
-0.2 //
-208 //UEFAShootFreekick
-240 //	clickArea
-288 //		h
-336 //		up
-400 //		w
-416 //	curve
-464 //		addKickRot
-624 //		multiply
-688 //		reverseCuveRate
-704 //		swipeDistMax
-752 //		swipeDistMin
-768 //	enable
-784 //	shootHeightFromSwipeSpeed
-832 //		enable
-0 //		goalMouseDown
-240.0 //		goalMouseOver
--70.0 //		goalMouseUpMax
+128 //InplayTapPassCheckSec
+0 //
+0 //UEFAShootFreekick
+0.2 //	clickArea
+208 //		h
+240 //		up
+288 //		w
+336 //	curve
+400 //		addKickRot
+416 //		multiply
+464 //		reverseCuveRate
+624 //		swipeDistMax
+688 //		swipeDistMin
+704 //	enable
+752 //	shootHeightFromSwipeSpeed
+768 //		enable
+784 //		goalMouseDown
+832 //		goalMouseOver
+0 //		goalMouseUpMax
 240.0 //		goalMouseUpMin
-0 //		mouseOverValue
-4.0 //		nearStrongEnable
-1.3 //		pixcelDist
-0.85 //			enable
-200.0 //			far
-10.0 //			near
-0 //			nearStrong
-0 //			normalMax
+-70.0 //		mouseOverValue
+240.0 //		nearStrongEnable
+0 //		pixcelDist
+4.0 //			enable
+1.3 //			far
+0.85 //			near
+200.0 //			nearStrong
+10.0 //			normalMax
 0 //			normalMin
-1 //	speed
-500.0 //		kickNormal
-75.0 //		kickStrong
-150.0 //		kickWeak
-350.0 //		swipeFastMax
-300.0 //		swipeFastMin
-0 //		swipeSlowMax
-0 //		swipeSlowMin
-1 //		
-25.0 //		
-190.0 //defenceMarkCalcApproachRate
-160.0 //	custom
-140.0 //	rate
-0.8 //	
-1 //	
-112 //foul
-0.45 //	action
-0.7 //		custom
-0.15 //		time
-60.0 //	area
-45.0 //		custom
-25.0 //		mode
-10.0 //		
+0 //	speed
+0 //		kickNormal
+1 //		kickStrong
+500.0 //		kickWeak
+75.0 //		swipeFastMax
+150.0 //		swipeFastMin
+350.0 //		swipeSlowMax
+300.0 //		swipeSlowMin
 0 //		
-64 //freekick
-80 //	adjustedTargetSetplay
-1 //		adjustRateMax
-144 //		adjustRateMin
-176 //		custom
-0 //		paraMax
-0 //		paraMin
-0 //		specialist
-1 //		
-0.5 //		
-0 //gk
-0 //	catchable
-1 //		catchableSpeedDefaultMax
-25 //		catchableSpeedDefaultMin
-0 //		catchableSpeedMin
-0 //		custom
-1 //		frontAdjustRate
-1 //		punchableSpeedMax
-0 //		punchableSpeedMin
-0 //		tooNearDist
-256 //	gkPress
-272 //		advantageousRateClassical
-0 //		advantageousRateNormal
-0 //		advantageousRateOffensive
-0.8 //		custom
-0.4 //		
-1 //		
-80.0 //isAutoKickAfterRun
-50.0 //	custom
-80.0 //	
-0 //isShouldTurnBeforePass
-0 //	angle
-304 //		custom
-0 //		max
-0 //		min
-0 //	checkKickPointDist
-85.0 //	dist
-70.0 //		checkDistMiddle
-60.0 //		checkDistShort
-0 //		custom
-1.1 //		
-110.0 //		
-80.0 //stamina
-20.0 //	contactTired
-1.7 //		custom
-1.5 //		value
-1.3 //	dashTired
+0 //		
+1 //defenceMarkCalcApproachRate
+25.0 //	custom
+190.0 //	rate
+160.0 //	
+140.0 //	
+0.8 //foul
+1 //	action
+112 //		custom
+0.45 //		time
+0.7 //	area
+0.15 //		custom
+60.0 //		mode
+45.0 //		
+25.0 //		
+10.0 //freekick
+0 //	adjustedTargetSetplay
+64 //		adjustRateMax
+80 //		adjustRateMin
 1 //		custom
-352 //		value
-384 //	defenceTired
+144 //		paraMax
+176 //		paraMin
+0 //		specialist
+0 //		
+0 //		
+1 //gk
+0.55 //	catchable
+0 //		catchableSpeedDefaultMax
+0 //		catchableSpeedDefaultMin
+1 //		catchableSpeedMin
+25 //		custom
+0 //		frontAdjustRate
+0 //		punchableSpeedMax
+1 //		punchableSpeedMin
+1 //		tooNearDist
+0 //	gkPress
+0 //		advantageousRateClassical
+256 //		advantageousRateNormal
+272 //		advantageousRateOffensive
 0 //		custom
-0 //		value
+0 //		
+0.8 //		
+0.4 //isAutoKickAfterRun
+1 //	custom
+80.0 //	
+50.0 //isShouldTurnBeforePass
+80.0 //	angle
+0 //		custom
+0 //		max
+304 //		min
+0 //	checkKickPointDist
+0 //	dist
+0 //		checkDistMiddle
+85.0 //		checkDistShort
+70.0 //		custom
+60.0 //		
+0 //		
+1.1 //stamina
+110.0 //	contactTired
+80.0 //		custom
+20.0 //		value
+1.0 //	dashTired
+0.5 //		custom
+0.1 //		value
+1 //	defenceTired
+352 //		custom
+384 //		value
 0 //		valueOwnSide
 0 //	dribbleTired
 0 //		custom
 0 //		value
-1 //	fallDownTired
-120.0 //		custom
-95.0 //		value
-0 //	jostleTired
-35.0 //		custom
-30.0 //		value
-1 //	metabolism
+0 //	fallDownTired
 0 //		custom
-432 //		value
-1.0 //	speedTired
-448 //		custom
+1 //		value
+120.0 //	jostleTired
+95.0 //		custom
 0 //		value
-1 //	staggerTired
+35.0 //	metabolism
+30.0 //		custom
+1 //		value
+0 //	speedTired
+432 //		custom
+1.0 //		value
+448 //	staggerTired
 0 //		custom
-0 //		value
+1 //		value
+0 //		
+0 //		
+0 //subConcept
+1 //	longPassLayOffAndBreakthroughToDefenceLine
+3.0 //		checkRot
+0 //		custom
 0 //		
 1 //		
-3.0 //subConcept
-0 //	longPassLayOffAndBreakthroughToDefenceLine
-0 //		checkRot
-1 //		custom
-3.0 //		
-3.0 //		
-0 //thinkUnitDribbleBreakThrough
-1 //	custom
-2.0 //	
+3.0 //thinkUnitDribbleBreakThrough
+3.0 //	custom
 0 //	
-0 //thinkUnitPassCross
-1 //	buildUpShort
-10.0 //		custom
-0 //		mode
-0 //	getTarget
-1 //		custom
-2.0 //		reverseSideShootRangeAngleSub
-0 //		
-0 //		
-1 //thinkUnitPassTarget
-8.0 //	custom
-0 //		
-0 //		
-1 //updateIntention
-1.0 //	custom
-0 //	
-0 //	
-1 //updateThinkList
-3.0 //	execSubConcept
+1 //	
+2.0 //thinkUnitPassCross
+0 //	buildUpShort
 0 //		custom
-0 //		enemyDist
-480 //	intentionChallengeAttackSideCenter
-496 //		custom
+1 //		mode
+10.0 //	getTarget
+0 //		custom
+0 //		reverseSideShootRangeAngleSub
+1 //		
+2.0 //		
+0 //thinkUnitPassTarget
+0 //	custom
+1 //		
+8.0 //		
+0 //updateIntention
+0 //	custom
+1 //	
+1.0 //	
+0 //updateThinkList
+0 //	execSubConcept
+1 //		custom
+3.0 //		enemyDist
+0 //	intentionChallengeAttackSideCenter
+0 //		custom
