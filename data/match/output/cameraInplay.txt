@@ -1,78 +1,78 @@
-nan //aiDebugCamera
-0 //	cameraY
-0 //	cameraZ
-32 //	isEnable
-48 //	lookAtZ
-64 //	
-80 //	
-320 //cameraMoveAreaSize
-0 //	isCustomize
-0 //	x
-0 //	z
-17.2 //	
-64.4 //	
-0 //cameraMoveMarginTime
-16.5 //	isCustomize
-0 //	mergetime
-0.9 //	movetime
-0.9 //	
+0 //aiDebugCamera
+32 //	cameraY
+48 //	cameraZ
+64 //	isEnable
+80 //	lookAtZ
+320 //	
 0 //	
-0 //dropPointDispFast
-7.0 //	afterKickTime
-30.0 //	decelerateRate
-0 //	isEnable
-0.33 //	isGrounderEnable
-0.1 //	passDistFly
-1 //	passDistGrounder
-25.0 //	speedLimit
-25.0 //	
-0.4 //	
-0 //newWideCamera
-0 //	ballZRangeMarginUnder
-22.0 //	ballZRangeMarginUpper
-0.5 //	isEnable
-3.0 //	paramMax
-1.372 //		distance
-0.42 //		height
-49.0 //		isCustomize
-41.01 //		paramTable
-21.921 //			Fov
--10.209 //			LookY
-1 //			Mani
+0 //cameraMoveAreaSize
+0 //	isCustomize
+17.2 //	x
+64.4 //	z
+0 //	
+16.5 //	
+0 //cameraMoveMarginTime
+0.9 //	isCustomize
+0.9 //	mergetime
+0 //	movetime
+0 //	
+7.0 //	
+30.0 //dropPointDispFast
+0 //	afterKickTime
+0.33 //	decelerateRate
+0.1 //	isEnable
+1 //	isGrounderEnable
+25.0 //	passDistFly
+25.0 //	passDistGrounder
+0.4 //	speedLimit
+0 //	
+0 //	
+22.0 //newWideCamera
+0.5 //	ballZRangeMarginUnder
+3.0 //	ballZRangeMarginUpper
+1.372 //	isEnable
+0.42 //	paramMax
+49.0 //		distance
+41.01 //		height
+21.921 //		isCustomize
+-10.209 //		paramTable
+1 //			Fov
+0 //			LookY
+0 //			Mani
+0.9 //			Pan
+0.7 //			PosY
+1 //			PosZ
+112 //			X_limit
+29.698 //			Z_max
+0.5 //			Z_min
+3.0 //			isCustomize
+1.324 //	paramMin
+0.4 //		distance
+35.5 //		height
+41.01 //		isCustomize
+21.406 //		paramTable
+2.076 //			Fov
+1 //			LookY
+0 //			Mani
+0 //			Pan
+0.9 //			PosY
+0.2 //			PosZ
+1 //			X_limit
+176 //			Z_max
+19.05 //			Z_min
+0.5 //			isCustomize
+2.73 //	relayParam
+1.4 //		distance
+0.471 //		height
+33.1 //		isEnable
+46.9 //		paramTable
+29.7 //			Fov
+-20.1 //			LookY
+0 //			Mani
 0 //			Pan
 0 //			PosY
 0.9 //			PosZ
-0.7 //			X_limit
-1 //			Z_max
-112 //			Z_min
-29.698 //			isCustomize
-0.5 //	paramMin
-3.0 //		distance
-1.324 //		height
-0.4 //		isCustomize
-35.5 //		paramTable
-41.01 //			Fov
-21.406 //			LookY
-2.076 //			Mani
-1 //			Pan
-0 //			PosY
-0 //			PosZ
-0.9 //			X_limit
-0.2 //			Z_max
-1 //			Z_min
-176 //			isCustomize
-19.05 //	relayParam
-0.5 //		distance
-2.73 //		height
-1.4 //		isEnable
-0.471 //		paramTable
-33.1 //			Fov
-46.9 //			LookY
-29.7 //			Mani
--20.1 //			Pan
-0 //			PosY
-0 //			PosZ
-0 //			X_limit
-0.9 //			Z_max
-0.2 //			Z_min
+0.2 //			X_limit
+0 //			Z_max
+240 //			Z_min
 0 //		relayBallPosZ

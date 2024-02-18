@@ -1,46 +1,46 @@
 0 //autoFrontMove
-0 //	enable
-0 //	moveKind
-96 //	pressure
-1.0 //		circleDist
-1 //		mode
-112 //		secDiff
-160 //		thinkDelay
-0 //	slowMoveEnable
-100.0 //	
+96 //	enable
+1.0 //	moveKind
+1 //	pressure
+112 //		circleDist
+160 //		mode
+0 //		secDiff
+100.0 //		thinkDelay
+1 //	slowMoveEnable
+45.0 //	
 1 //ballArrivalFastSec
-45.0 //ballAvoidEnable
+35.0 //ballAvoidEnable
 1 //
-35.0 //defence
-1 //	paraMax
-0.3 //	paraMin
-0.0 //	secMax
-0.4 //	secMin
-1 //	
-22.5 //inputMoveAir
+0.3 //defence
+0.0 //	paraMax
+0.4 //	paraMin
+1 //	secMax
+22.5 //	secMin
+0 //	
+0 //inputMoveAir
 0 //	ballBound
-0 //	ballHeight
+9.0 //	ballHeight
 0 //	enable
-9.0 //	moveRange
-0 //		length
-0.1 //		side
-1 //	moveRangeFree
+0.1 //	moveRange
 1 //		length
-0 //		side
-80 //	targetDist
-1 //	
-90.0 //inputMovePosition
-60.0 //	enable
-0.4 //	
-0.4 //manualPassGetRate
-1.5 //neutralTrapAutoFront
-0.5 //nextPlayEnable
-0 //openBodyMaxValue
+1 //		side
+0 //	moveRangeFree
+80 //		length
+1 //		side
+90.0 //	targetDist
+60.0 //	
+0.4 //inputMovePosition
+0.4 //	enable
+1.5 //	
+0.5 //manualPassGetRate
+0 //neutralTrapAutoFront
+0 //nextPlayEnable
+1.5 //openBodyMaxValue
 0 //passGetThroughNoTrap
-1.5 //positionAdjustAngleSubMax
+0 //positionAdjustAngleSubMax
 0 //positionAdjustEnable
-0 //positionAdjustSide
-0 //thinkPressFilterUntilTargetBallThrough, trapRunReceiveMotionFreeMove, trapRunReceiveMotionStepMove, trapStopThinkEnemyFarFoot //all in same block
+1 //positionAdjustSide
+1.5 //thinkPressFilterUntilTargetBallThrough, trapRunReceiveMotionFreeMove, trapRunReceiveMotionStepMove, trapStopThinkEnemyFarFoot //all in same block
 1 //trapStopThinkEnemyFrameDiffSec
-1.5 //trapStopThinkStrongerFoot
-1 //trapStopThinkStrongerFootBallSpeedKph
+128 //trapStopThinkStrongerFoot
+144 //trapStopThinkStrongerFootBallSpeedKph

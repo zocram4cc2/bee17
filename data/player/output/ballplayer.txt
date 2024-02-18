@@ -1,1 +1,1 @@
-10.0 //validParamValueForPriority
+0 //validParamValueForPriority

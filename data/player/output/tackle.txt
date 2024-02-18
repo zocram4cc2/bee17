@@ -1,39 +1,39 @@
 0 //anime
-0 //	accelBackLimitSpeed
+64 //	accelBackLimitSpeed
 0 //	accelLimitSpeedIdle
-64 //	accelLimitSpeedMove
-0 //	adjustLimitAngleIdle
+0.4 //	accelLimitSpeedMove
+0.5 //	adjustLimitAngleIdle
 0.4 //	adjustLimitAngleMove
 0.5 //	autoShoulderCom, autoShoulderInterruptCom, autoShoulderInterruptUser, autoShoulderUser //all in same block
-0.4 //	ballVisibleCheck
-0.5 //	enterSpeed
-0.7 //	farCutFrame
-2 //	midCutFrame
-0 //	nearCutFrame
-0 //	playbackSpeedHighest
-1.5 //	playbackSpeedLowest
-0.2 //	pressTackleEnableAngleIdle
-1.75 //	pressTackleEnableAngleIdleAggressiveLv1
+0.7 //	ballVisibleCheck
+2 //	enterSpeed
+0 //	farCutFrame
+0 //	midCutFrame
+1.5 //	nearCutFrame
+0.2 //	playbackSpeedHighest
+1.75 //	playbackSpeedLowest
+0 //	pressTackleEnableAngleIdle
+0 //	pressTackleEnableAngleIdleAggressiveLv1
 0 //	pressTackleEnableAngleIdleAggressiveLv2
-0 //	pressTackleEnableAngleMove
-0 //	pressTackleEnableAngleMoveAggressiveLv1
-1.0 //	pressTackleEnableAngleMoveAggressiveLv2
-4.0 //	shoulderCutFrame
-0 //	shoulderInterruptSlideLimit
-22.5 //	shoulderOnly
-22.5 //	shoulderSlideLimit
-0.0 //	stepMoveAutoTackleFarEnable, stepMoveAutoTackleVeryfarEnable, tackleVeryfarEnable //all in same block
-1 //	veryfarCutFrame
-15.0 //	
-4 //autoSideStepEnable
-6 //check_SaftyRate_Delay
-8 //check_SaftyRate_Last_Line
-1.2 //check_SaftyRate_No_Cover
-0.9 //failAfterStopTime
-135.0 //forecastHitRate
-157.5 //freeMoveTackleMode
-168.75 //manualSideStepEnable
-105.0 //reactionStartFrame
-135.0 //saftyRate_FarDist
-157.5 //saftyRate_NearDist
-0 //tackleThinkDisableToTrap
+1.0 //	pressTackleEnableAngleMove
+4.0 //	pressTackleEnableAngleMoveAggressiveLv1
+0 //	pressTackleEnableAngleMoveAggressiveLv2
+22.5 //	shoulderCutFrame
+22.5 //	shoulderInterruptSlideLimit
+0.0 //	shoulderOnly
+1 //	shoulderSlideLimit
+15.0 //	stepMoveAutoTackleFarEnable, stepMoveAutoTackleVeryfarEnable, tackleVeryfarEnable //all in same block
+4 //	veryfarCutFrame
+6 //	
+8 //autoSideStepEnable
+1.2 //check_SaftyRate_Delay
+0.9 //check_SaftyRate_Last_Line
+135.0 //check_SaftyRate_No_Cover
+157.5 //failAfterStopTime
+168.75 //forecastHitRate
+105.0 //freeMoveTackleMode
+135.0 //manualSideStepEnable
+157.5 //reactionStartFrame
+0 //saftyRate_FarDist
+0.1 //saftyRate_NearDist
+1 //tackleThinkDisableToTrap

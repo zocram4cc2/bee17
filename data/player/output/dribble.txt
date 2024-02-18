@@ -1,18 +1,18 @@
-0.03 //adjustAngleFlag, burstTest, cancelAfterRotation //all in same block
-0 //dribbleAngleLimitDash
-0 //dribbleAngleLimitRunToDash
-1 //dribbleAngleLimitStopToDash
-45.0 //dribbleFrontNormalTouchEnable
-180.0 //dribbleFrontNormalTouchRate
-180.0 //dribbleGotoAddFrame
+0 //adjustAngleFlag, burstTest, cancelAfterRotation //all in same block
+1 //dribbleAngleLimitDash
+45.0 //dribbleAngleLimitRunToDash
+180.0 //dribbleAngleLimitStopToDash
+180.0 //dribbleFrontNormalTouchEnable
+0 //dribbleFrontNormalTouchRate
+1.0 //dribbleGotoAddFrame
 0 //dribbleStopDist
-1.0 //dribbleStopSpeed
-0 //
-50.0 //slowDribble
-100.0 //	enable, jogEnable, neutralEnable //all in same block
-48 //	stickKeepTime
-64 //	stickRate
+50.0 //dribbleStopSpeed
+100.0 //
+48 //slowDribble
+64 //	enable, jogEnable, neutralEnable //all in same block
+0 //	stickKeepTime
+256 //	stickRate
 0 //	
-256 //staggerDribble
+1.0 //staggerDribble
 0 //	debugAlways, enable	//all in same block
-1.0 //	enemyDist
+0 //	enemyDist

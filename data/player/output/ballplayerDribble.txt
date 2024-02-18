@@ -1,55 +1,55 @@
 nan //BallGard
-nan //	dummy
-nan //
-32 //BreakThrough
-64 //	DashCheckSecotor
-144 //		angle
-160 //		dist
-192 //	distDecideAngle
-224 //	distThikStart
-272 //	enemySearchAngle
+32 //	dummy
+64 //
+144 //BreakThrough
+160 //	DashCheckSecotor
+192 //		angle
+224 //		dist
+272 //	distDecideAngle
+0 //	distThikStart
+0 //	enemySearchAngle
 0 //	
 0 //MatchUp
 0 //	Burst
-0 //		angleSubMax
-0 //		enemyFanWidth
-40.0 //		enemyFutureSec
-10.0 //		startDist
-0 //	OneTwo
-0 //		courseCheckWidth
-48 //		distTargetToEnemy
-5.0 //		passTimingDist
-40.0 //		rangeFar
-120.0 //		rangeNear
-60.0 //	Slide
-90.0 //		keepDistMax
-0.6 //		keepDistMin
-3.5 //		startDist
-20.0 //	distThikStart
-3.0 //	
-2.5 //Nomal
-20.0 //	distDecideAngle
-4.0 //	distLeaveEnemy
+40.0 //		angleSubMax
+10.0 //		enemyFanWidth
+0 //		enemyFutureSec
+0 //		startDist
+48 //	OneTwo
+5.0 //		courseCheckWidth
+40.0 //		distTargetToEnemy
+120.0 //		passTimingDist
+60.0 //		rangeFar
+90.0 //		rangeNear
+0.6 //	Slide
+3.5 //		keepDistMax
+20.0 //		keepDistMin
+3.0 //		startDist
+2.5 //	distThikStart
+20.0 //	
+4.0 //Nomal
+0 //	distDecideAngle
+0 //	distLeaveEnemy
 0 //	enemySearchAngle
-0 //	frameLeaveEnemy
-0 //	rateLeaveEnemy
-7.0 //	
-4.0 //QuickTurn
-5.0 //	dummy
-0 //	
-80 //Safety
-96 //	GearDownCheckSecotor
-128 //		angle
-55.0 //		dist
-10.0 //		frame
-10.0 //	distDecideAngle
-240.0 //	distLeaveEnemy
-15 //	enemyCheckDistMax
-1.0 //	enemyCheckDistMin
+7.0 //	frameLeaveEnemy
+4.0 //	rateLeaveEnemy
+5.0 //	
+0 //QuickTurn
+80 //	dummy
+96 //	
+128 //Safety
+55.0 //	GearDownCheckSecotor
+10.0 //		angle
+10.0 //		dist
+240.0 //		frame
+15 //	distDecideAngle
+1.0 //	distLeaveEnemy
+0 //	enemyCheckDistMax
+0 //	enemyCheckDistMin
 0 //	enemySearchAngle
 0 //	frameLeaveEnemy
 0 //	gearDownMoveAngleSub
 0 //	rateLeaveEnemy
 0 //	
-0 //Stop
-0 //	dummy
+30.0 //Stop
+15.0 //	dummy

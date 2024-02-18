@@ -1,15 +1,15 @@
-10.0 //BackSpaceInfo
+0 //BackSpaceInfo
+48 //	dummy
+64 //	
+80 //CrossInfo
+96 //	dummy
+112 //
+128 //EarlyCrossInfo
+144 //	dummy
+160 //
+176 //LongPassInfo
 0 //	dummy
-0 //	
-48 //CrossInfo
-64 //	dummy
-80 //
-96 //EarlyCrossInfo
-112 //	dummy
-128 //
-144 //LongPassInfo
-160 //	dummy
-176 //
+0 //
 0 //OneTwoInfo
 0 //	dummy
 0 //

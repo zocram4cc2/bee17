@@ -1,10 +1,10 @@
-288 //burstR1PullDelete
-0 //	dribble
-0 //	enable
-32 //	trap
-1 //	
+0 //burstR1PullDelete
+32 //	dribble
+1 //	enable
+0 //	trap
 0 //	
+-1.0 //	
 0 //kickAngleChangeOfferNowAnimeKick
--1.0 //kickAngleChangeOfferTimer
+0 //kickAngleChangeOfferTimer
 0 //kickCommandCreateButtonPull
 0 //shootKickAngleChangeOfferTimer

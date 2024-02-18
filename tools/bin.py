@@ -8,16 +8,20 @@ def entry():
     lim = math.ceil(head)
     index = int(input("Index length: "))
     bin = int(input("Binary file: "))
-    data_dir = 'raw'
-
+    data_dir = '../data/'
+    bin_dir = '../bins/common/match/constant/'
     if(bin == 0):
         fn = 'constant_match.bin'
+        data_dir += 'match/'
     elif(bin == 1):
         fn = 'constant_player.bin'
+        data_dir += 'player/'
     elif(bin == 2):
         fn = 'constant_team.bin'
-          
-    f = open(fn, 'rb')
+        data_dir += 'team/'
+        
+    data_dir += 'raw/'
+    f = open(os.path.join(bin_dir, fn), 'rb')
     if not os.path.exists(data_dir):
         os.makedirs(data_dir)
     o = open(os.path.join(data_dir,'index.txt'), 'w')
@@ -60,7 +64,7 @@ def entry():
         
     for i in range(len(fin)):
         #out = open(fin[i] + '.txt', 'w')
-        out = open(os.path.join('data', fin[i] + '.txt'), 'w')
+        out = open(os.path.join(data_dir, fin[i] + '.txt'), 'w')
         for j in range(int(lena[i+1]/4)):
             b = f.read(4)
             p = unpack('<i', b)[0]

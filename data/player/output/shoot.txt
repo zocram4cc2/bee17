@@ -1,31 +1,31 @@
 0 //advanceLoop
-0 //	distMax
-0 //	distMin
-48 //	heightMaxForGageMax
-80 //	heightMaxForGageMin
-112 //	heightMinForGageMax
-144 //	heightMinForGageMin
-176 //	
-192 //controlShootGageMax	//array
-208 //controlShootGageMid	//array
-240 //controlShootGageMin	//array
-272 //
-304 //control_dy
+48 //	distMax
+80 //	distMin
+112 //	heightMaxForGageMax
+144 //	heightMaxForGageMin
+176 //	heightMinForGageMax
+192 //	heightMinForGageMin
+208 //	
+240 //controlShootGageMax	//array
+272 //controlShootGageMid	//array
+304 //controlShootGageMin	//array
+0 //
+0 //control_dy
+50.0 //	gageMax
+5.0 //	gageMin
+10.0 //	interpolateRate
+6.0 //	
+2.0 //loop
+1.2 //	angleY
+0 //	manualRate
+0 //	speedForGageMax
+80.0 //	speedForGageMin
+80.0 //	
+82.0 //normalShootGageMax	//array
+84.0 //normalShootGageMid	//array
+90.0 //normalShootGageMin	//array
+98.0 //
+0 //normal_dy
 0 //	gageMax
-0 //	gageMin
-50.0 //	interpolateRate
-5.0 //	
-10.0 //loop
-6.0 //	angleY
-2.0 //	manualRate
-1.2 //	speedForGageMax
-0 //	speedForGageMin
-0 //	
-80.0 //normalShootGageMax	//array
-80.0 //normalShootGageMid	//array
-82.0 //normalShootGageMin	//array
-84.0 //
-90.0 //normal_dy
-98.0 //	gageMax
-0 //	gageMin
-0 //	interpolateRate
+62.0 //	gageMin
+64.0 //	interpolateRate

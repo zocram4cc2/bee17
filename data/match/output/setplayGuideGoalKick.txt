@@ -1,36 +1,36 @@
-128 //gage
-144 //
-0 //rot
-0.8 //	addBackSpin
-32 //	addHigh
-96 //	adjustDist
-160 //		addValue
-5.0 //		distMax
-50.0 //		distMin
-30.0 //		enable
-0 //	base
-2.0 //	topSpinRot
-5.0 //	
-16 //speed
-19.0 //	addGage
-17.0 //		addParaRate
+0 //gage
+0.8 //
+32 //rot
+96 //	addBackSpin
+160 //	addHigh
+5.0 //	adjustDist
+50.0 //		addValue
+30.0 //		distMax
+0 //		distMin
+2.0 //		enable
+5.0 //	base
+16 //	topSpinRot
+19.0 //	
+17.0 //speed
+0 //	addGage
+0 //		addParaRate
 0 //		base
-0 //	base
-0 //	kickPowerParameter
-10.0 //		debugParameter
-20.0 //		max
-0 //		min
-0 //		mode
-nan //		
-99.0 //		
-40.0 //spin
-1 //	backSpin
-64 //		base
-80.0 //		paraRate
-80 //	sideSpin
+10.0 //	base
+20.0 //	kickPowerParameter
+0 //		debugParameter
+0 //		max
+nan //		min
+99.0 //		mode
+40.0 //		
+1 //		
+64 //spin
+80.0 //	backSpin
+80 //		base
+0 //		paraRate
+2.5 //	sideSpin
+2.0 //		base
+0 //		paraRate
+0 //		revers
+1.0 //	topSpin
 0 //		base
-2.5 //		paraRate
-2.0 //		revers
-0 //	topSpin
-0 //		base
-1.0 //		paraRate
+4.0 //		paraRate

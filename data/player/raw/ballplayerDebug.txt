@@ -1,6 +1,4 @@
 0
-0
-0
 16
 48
 288
@@ -93,6 +91,8 @@ nan
 nan
 0
 0
+nan
+nan
 nan
 nan
 nan
