@@ -1,20 +1,20 @@
-90.0 //delayAreaAutoStep
-30.0 //freeMoveStopDist
-0 //
-1 //runLoopBank
-0 //	limitBankLower
-32 //	limitBankUpper
+1 //delayAreaAutoStep
+0 //freeMoveStopDist
+32 //
+0 //runLoopBank
+64 //	limitBankLower
+0 //	limitBankUpper
 0 //	rotYLimMax
-64 //	
-0 //runTurnOn
-0 //
-0 //stepMoveFront
-40.0 //	distAdjust
-30.0 //		ballSpeedKphMax
-112.5 //		ballSpeedKphMin
-0 //		enable
-40.0 //		value
-20.0 //	distBase
-1 //	mode
-3.0 //	
-48 //stepMoveSpeed
+0 //	
+40.0 //runTurnOn
+30.0 //
+112.5 //stepMoveFront
+0 //	distAdjust
+40.0 //		ballSpeedKphMax
+20.0 //		ballSpeedKphMin
+1 //		enable
+3.0 //		value
+48 //	distBase
+10.0 //	mode
+0 //	
+0 //stepMoveSpeed

@@ -1,6 +1,6 @@
-240 //BlendTime
-230 //addPenaltyX
-0 //addPenaltyZ
-0.3 //connectLimit
-5.0 //isHard, onoff	//both in same block
-5.0 //targetAngleType
+0.3 //BlendTime
+5.0 //addPenaltyX
+5.0 //addPenaltyZ
+3.0 //connectLimit
+256 //isHard, onoff	//both in same block
+0 //targetAngleType

@@ -1,24 +1,24 @@
-83 //longThrowSupport
-0 //	adjustRate
-0 //	enable
-32 //	mode
-1 //	
-48 //mode
-64 //		
-96 //seamlessThrowin
-0 //	dist
-0 //	touchLineDist
+32 //longThrowSupport
+1 //	adjustRate
+48 //	enable
+64 //	mode
+96 //	
+0 //mode
+0 //		
+0 //seamlessThrowin
+0.5 //	dist
+1 //	touchLineDist
 0 //	
-0.5 //search
-1 //	distFarLongPara
-0 //	distFarNormal
+0 //search
+5.0 //	distFarLongPara
+3.0 //	distFarNormal
 0 //	distMiddle
-5.0 //	distNear
-3.0 //	gageMiddle
-0 //	
-0 //speed
-32.0 //	adjustDistMax
-25.0 //	adjustDistMin
-15.0 //	adjustSpeed
-5.0 //	baseMaxKph
-0.6 //	baseMinKph
+0 //	distNear
+32.0 //	gageMiddle
+25.0 //	
+15.0 //speed
+5.0 //	adjustDistMax
+0.6 //	adjustDistMin
+0 //	adjustSpeed
+0 //	baseMaxKph
+0 //	baseMinKph

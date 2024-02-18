@@ -1,35 +1,35 @@
-816 //addPoint
-0 //	assist_over2
-0 //	assist_over4
-96 //	goal_king
-45.0 //	goal_or_assist
-6.5 //	goal_over2
-5.5 //	goal_over3
-144 //	goal_over6
-8.0 //	lost_goal_many
-25.0 //	many_save
-1083 //	snatchedMany_dribble
-2020 //	snatchedMany_pass
-2470 //	
-9.0 //	
-4.0 //angleDiffMoveAngleToPos
-2.0 //baseRatingMax
-0 //baseRatingMin
-0.5 //df_rate
-1.0 //distOneArrow
-1.5 //distTwoArrow
+96 //addPoint
+45.0 //	assist_over2
+6.5 //	assist_over4
+5.5 //	goal_king
+144 //	goal_or_assist
+8.0 //	goal_over2
+25.0 //	goal_over3
+1083 //	goal_over6
+2020 //	lost_goal_many
+2470 //	many_save
+9.0 //	snatchedMany_dribble
+4.0 //	snatchedMany_pass
+2.0 //	
+0 //	
+0.5 //angleDiffMoveAngleToPos
+1.0 //baseRatingMax
+1.5 //baseRatingMin
+2.0 //df_rate
+2.0 //distOneArrow
+2.0 //distTwoArrow
 2.0 //fw_rate
 2.0 //gk_rate
-2.0 //mf_rate
-2.0 //ratingMax
-2.0 //ratingMin
-0 //subValue100percent
-0 //subValue10percent
+0 //mf_rate
+0 //ratingMax
+0.5 //ratingMin
+1.0 //subValue100percent
+0.5 //subValue10percent
 0.5 //subValue20percent
-1.0 //subValue30percent
-0.5 //subValue40percent
-0.5 //subValue50percent
-0.5 //subValue60percent
-1.5 //subValue70percent
-2.0 //subValue80percent
+0.5 //subValue30percent
+1.5 //subValue40percent
+2.0 //subValue50percent
+-0.5 //subValue60percent
+0.5 //subValue70percent
+-0.5 //subValue80percent
 -0.5 //subValue90percent

@@ -1,20 +1,20 @@
-0 //ClearInfo
-0 //	enemyDist
-0 //	forceKickTime
-16 //	
-32 //LongPassInfo
-64 //	forceEnemyDist
-0 //	forceKickTime
-5.0 //	limitLineFromPenaltyLine
-3.0 //	rangeFar
-0 //	rangeNear
+16 //ClearInfo
+32 //	enemyDist
+64 //	forceKickTime
 0 //	
-15.0 //ShortPassInfo
-3.0 //	courseCheckWidth
+5.0 //LongPassInfo
+3.0 //	forceEnemyDist
+0 //	forceKickTime
+0 //	limitLineFromPenaltyLine
+15.0 //	rangeFar
+3.0 //	rangeNear
+0 //	
+60.0 //ShortPassInfo
+35.0 //	courseCheckWidth
 0 //	passAngleSubMax
-60.0 //	passDistMax
-35.0 //	rangeFar
-0 //	rangeNear
-0 //	targetFreeDist
-0 //	
-40.0 //limitLineFromPenaltyLine
+0 //	passDistMax
+0 //	rangeFar
+40.0 //	rangeNear
+80.0 //	targetFreeDist
+30.0 //	
+35.0 //limitLineFromPenaltyLine

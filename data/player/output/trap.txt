@@ -1,90 +1,90 @@
-65.0 //autoR2
-80.0 //	checkEnemyFutureFrame
-180.0 //	checkSectorDist
-48 //	checkSectorWidth
-208 //	
-272 //ballForceDirect
-304 //	blendStartAfterFrame
-336 //	blendStartFrame
-0.4 //		offsetPos_Dash_Dash
-352 //		offsetPos_Dash_Idle
-1 //		offsetPos_Dash_Run
-368 //		offsetPos_Idle_Dash
-1 //		offsetPos_Idle_Idle
-0 //		offsetPos_Idle_Run
-0 //		offsetPos_Run_Idle
-0.33 //		offsetPos_Run_Run
+48 //autoR2
+208 //	checkEnemyFutureFrame
+272 //	checkSectorDist
+304 //	checkSectorWidth
+336 //	
+0.4 //ballForceDirect
+352 //	blendStartAfterFrame
+1 //	blendStartFrame
+368 //		offsetPos_Dash_Dash
+1 //		offsetPos_Dash_Idle
+0 //		offsetPos_Dash_Run
+0 //		offsetPos_Idle_Dash
+0.33 //		offsetPos_Idle_Idle
+2.0 //		offsetPos_Idle_Run
+100.0 //		offsetPos_Run_Idle
+0 //		offsetPos_Run_Run
 2.0 //		offsetPos_Run_dash
-100.0 //	blendStartSpeed
-0 //		burst
+0.5 //	blendStartSpeed
+1.5 //		burst
 2.0 //		dashOfRun
 0.5 //		speed_0
 1.5 //		speed_15
-2.0 //		speed_28
-0.5 //		use
-1.5 //	burstSetting
-0.5 //		max
-1.5 //		min
-2.0 //		ratio
-0 //	cancelFrame
-0 //		offsetPos_Dash_Dash
-0 //		offsetPos_Dash_Idle
-2.5 //		offsetPos_Dash_Run
-2.5 //		offsetPos_Idle_Dash
-1.2 //		offsetPos_Idle_Idle
-0 //		offsetPos_Idle_Run
-2.75 //		offsetPos_Run_Idle
-2.0 //		offsetPos_Run_Run
-2.0 //		offsetPos_Run_dash
-1.0 //	cancelFrameOffsetPos
-0.5 //	kickBasis
-0.75 //		offsetPos_Dash
-1.0 //		offsetPos_Idle
-1.5 //		offsetPos_Run
-1.5 //	rateCollisionSpin
-0 //	runDashSetting
+0.5 //		speed_28
+1.5 //		use
+2.0 //	burstSetting
 0 //		max
 0 //		min
-2.0 //		ratio
-0.5 //	use
-1.5 //	
-0 //ballInAngle
-2.0 //	angleOpen
+0 //		ratio
+2.5 //	cancelFrame
+2.5 //		offsetPos_Dash_Dash
+1.2 //		offsetPos_Dash_Idle
+0 //		offsetPos_Dash_Run
+2.75 //		offsetPos_Idle_Dash
+2.0 //		offsetPos_Idle_Idle
+2.0 //		offsetPos_Idle_Run
+1.0 //		offsetPos_Run_Idle
+0.5 //		offsetPos_Run_Run
+0.75 //		offsetPos_Run_dash
+1.0 //	cancelFrameOffsetPos
+1.5 //	kickBasis
+1.5 //		offsetPos_Dash
+0 //		offsetPos_Idle
+0 //		offsetPos_Run
+0 //	rateCollisionSpin
+2.0 //	runDashSetting
+0.5 //		max
+1.5 //		min
+0 //		ratio
 2.0 //	use
-1.2 //	
-0 //cancel
-20 //	hitBefore
-64 //		jumpStartFrame
-112 //
-128 //defenseTrap
-0 //	checkBallHeight
-176 //	checkBallLimitRange
-0.25 //	checkBallMoveVecY
-192 //	checkDistKeepPlayerToBall
-1 //	custom
-0 //		angleOut
+2.0 //	
+1.2 //ballInAngle
+0 //	angleOpen
+20 //	use
+64 //	
+112 //cancel
+128 //	hitBefore
+0 //		jumpStartFrame
+176 //
+0.25 //defenseTrap
+192 //	checkBallHeight
+1 //	checkBallLimitRange
+0 //	checkBallMoveVecY
+0 //	checkDistKeepPlayerToBall
+0 //	custom
+6 //		angleOut
 0 //		speedOut
 0 //		use
-6 //	use
-0 //	
+0 //	use
+256 //	
 0 //reachOut
 0 //	ballSpeed
-256 //	reach
+0 //	reach
 0 //	use
-0 //	
+1 //	
 0 //staggerTrapHeight
 0 //
-1 //touchAfterSec
-0 //	defence
-0 //	defenceKeep
-0.3 //	offence
-0.5 //	shoot
-10.0 //	shootSpeedBall
-1.75 //	
-288 //trapChapeuAuto
-1 //
-0 //trapCutFrame
-0 //	default
-50.0 //	fast
-1.0 //	
-1 //trapLoss
+0.3 //touchAfterSec
+0.5 //	defence
+10.0 //	defenceKeep
+1.75 //	offence
+288 //	shoot
+1 //	shootSpeedBall
+0 //	
+0 //trapChapeuAuto
+50.0 //
+1.0 //trapCutFrame
+1 //	default
+0 //	fast
+0.25 //	
+0.1 //trapLoss

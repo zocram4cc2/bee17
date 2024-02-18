@@ -1,9 +1,19 @@
 import os
 
+# Get which file we're joining and specify the base path
+base_dir = '../data/'
+bin = int(input("Binary file: "))
+if(bin == 0):
+    base_dir += 'match/'
+elif(bin == 1):
+    base_dir += 'player/'
+elif(bin == 2):
+    base_dir += 'team/'
+
 # specify the directories
-data_dir = 'raw'
-reconst_dir = 'reconst'
-output_dir = 'output'
+data_dir = base_dir + 'raw'
+reconst_dir = base_dir + 'reconst'
+output_dir = base_dir + 'output'
 
 # create output directory if it doesn't exist
 if not os.path.exists(output_dir):

@@ -1,42 +1,42 @@
-48 //decideTiming
-0 //	moveSec
-160 //	pes15TestDecideTiming
-0 //		enable
-176 //		maxSec
-192 //		minSec
-1 //	stopSec
-0 //	
-1 //highballEnable
-0.8 //
-0 //moveContact
+0 //decideTiming
+48 //	moveSec
+0 //	pes15TestDecideTiming
+160 //		enable
+0 //		maxSec
+176 //		minSec
+192 //	stopSec
+1 //	
+0 //highballEnable
+1 //
+0.8 //moveContact
 0 //	firstAttackEnd
-0.8 //		enable
-32 //		paraDiff
-0.3 //	pes15TestMoveContact
-0 //		calcType
+0 //		enable
+0.8 //		paraDiff
+32 //	pes15TestMoveContact
+0.3 //		calcType
 0 //		defenceIdealRot
-10 //			margin
-0 //			max
+0 //			margin
+10 //			max
 0 //			min
-5.0 //			paraDown
-40.0 //		dropOut
-30.0 //			enable
-15.0 //			minSec
-1 //		enable, neutralEnd //all in same byte
-0.15 //		speedDiff
 0 //			paraDown
+5.0 //		dropOut
+40.0 //			enable
+30.0 //			minSec
+15.0 //		enable, neutralEnd //all in same byte
+1 //		speedDiff
+0.15 //			paraDown
 0 //			value
-5.0 //		tackleResultSetAnime
+0 //		tackleResultSetAnime
 5.0 //		
-0 //moveEnable
+5.0 //moveEnable
 0 //
-1 //stamina
-80 //	effect
-96 //	max
-257 //	min
-112 //	
-0 //stopContact
+0 //stamina
+1 //	effect
+80 //	max
+96 //	min
+257 //	
+112 //stopContact
 0 //	keepBodyAngleSub
 0 //	myGoalAngleEnable
-64 //	
-128 //stopEnable
+0 //	
+64 //stopEnable

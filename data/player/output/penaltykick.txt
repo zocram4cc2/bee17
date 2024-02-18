@@ -1,2 +1,2 @@
-3.0 //shootSpeedKPHMax
-0 //shootSpeedKPHMin
+95.0 //shootSpeedKPHMax
+75.0 //shootSpeedKPHMin

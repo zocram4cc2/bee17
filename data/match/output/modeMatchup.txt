@@ -1,14 +1,14 @@
-1360 //gk_entry
-0 //playerPosNo
-0 //
-0 //playerPosTable
-nan //	enemyAngle
-32 //	enemyDist
-nan //	kickerAngle
-176 //	kickerDist
-0 //	
-0 //restartPosNo
-0 //
-270.0 //restartPosTable
-10.0 //	x
-90.0 //	z
+0 //gk_entry
+nan //playerPosNo
+32 //
+nan //playerPosTable
+176 //	enemyAngle
+0 //	enemyDist
+0 //	kickerAngle
+0 //	kickerDist
+270.0 //	
+10.0 //restartPosNo
+90.0 //
+3.0 //restartPosTable
+200.0 //	x
+10.0 //	z

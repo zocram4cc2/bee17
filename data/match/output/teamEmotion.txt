@@ -1,13 +1,13 @@
-128 //categorys
-144 //	name
-0 //	retry
-16 //	
-5 //downPointMin
-192 //
-0 //gage
-224 //	away_lmt
-0 //	away_max
-229 //	away_mid
-0 //	home_lmt
-238 //	home_max
-0 //	home_mid
+16 //categorys
+5 //	name
+192 //	retry
+0 //	
+224 //downPointMin
+0 //
+229 //gage
+0 //	away_lmt
+238 //	away_max
+0 //	away_mid
+251 //	home_lmt
+0 //	home_max
+256 //	home_mid
