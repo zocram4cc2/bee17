@@ -1,8 +1,7 @@
-# 16sense
-## Gameplay patch for Pro Evolution Soccer 2016
+# bee17
+## Gameplay patch for Pro Evolution Soccer 2017
 
-16sense is the gameplay patch developed for the [4chan cup](https://implyingrigged.info/) for its use in PES2016. This is achieved like the previous PES2021 patch by changing the binary constants file Konami left in the game's data packs. Its name is loosely inspired by pfSense, a product so named because "it makes sense of pf". This patch aims to "make sense" of PES 2016.
-
+ bee17 is the gameplay patch developed for the [4chan cup](https://implyingrigged.info/) for its use in PES2017. This is achieved like the previous PES2021 patch by changing the binary constants file Konami left in the game's data packs. 
 **Current patch notes:**
 
 - match/pesSmart: 
@@ -87,9 +86,9 @@ The python tools have been modified so that you can clone this repo, execute the
 
 For 16:
 ```
-constant_match: HEADER 276 INDEX 336 FILE N.0 (after modification INDEX is 342 - wtf?)
+constant_match: HEADER 284 INDEX 356 FILE N.0 (after modification INDEX is +6 - wtf?)
 constant_player: HEADER 416 INDEX 432 FILE N.1 (after modification INDEX is 438 - wtf?)
-constant_match: HEADER 200 INDEX 212 FILE N.2
+constant_match: HEADER 200 INDEX 216 FILE N.2
 ```
 Not sure why indexes gain bytes... GPE is really janky!
 
