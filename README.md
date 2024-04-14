@@ -1,7 +1,7 @@
-# bee17
+# 
 ## Gameplay patch for Pro Evolution Soccer 2017
 
- bee17 is the gameplay patch developed for the [4chan cup](https://implyingrigged.info/) for its use in PES2017. This is achieved like the previous PES2021 patch by changing the binary constants file Konami left in the game's data packs. 
+ is the gameplay patch developed for the [4chan cup](https://implyingrigged.info/) for its use in PES2017. This is achieved like the previous PES2021 patch by changing the binary constants file Konami left in the game's data packs. 
 **Current patch notes:**
 
 - match/pesSmart: 

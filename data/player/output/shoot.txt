@@ -10,8 +10,8 @@
 304 //controlShootGageMid	//array
 0 //controlShootGageMin	//array
 0 //
-50.0 //control_dy
-5.0 //	gageMax
+48.0 //control_dy
+4.0 //	gageMax
 10.0 //	gageMin
 6.0 //	interpolateRate
 2.0 //	

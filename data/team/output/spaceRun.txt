@@ -11,8 +11,8 @@
 20.0 //angleWidth2
 25.0 //angleWidth2_good
 1 //backwardCurve
-100 //chanceScore
-85 //chanceScore_good
+110 //chanceScore
+95 //chanceScore_good
 30.0 //checkAngleWidthSector
 50.0 //checkAngleWidthSector_good
 2 //checkAreaNum
@@ -37,8 +37,8 @@
 6.0 //checkCrossPointDist2_chance_good
 27.0 //checkFreeDist
 32.0 //checkFreeDist_good
-0 //checkInterceptScore
-10.0 //checkInterceptScore_good
+80.0 //checkInterceptScore
+70.0 //checkInterceptScore_good
 19.0 //checkLastLineDist_chance
 23.0 //checkLastLineDist_chance_good
 5.0 //checkLastLineDist_flow
@@ -55,10 +55,10 @@
 20.0 //checkPlayPointDistX
 24.0 //checkPlayPointDistX_good
 40.0 //checkPlayPointDist_good
-100 //checkScore
-95 //checkScore_flow
-80 //checkScore_flow_good
-90 //checkScore_good
+110 //checkScore
+100 //checkScore_flow
+90 //checkScore_flow_good
+100 //checkScore_good
 1 //checkSpaceRunCount
 1 //checkSpaceRunCount_good
 40.0 //checkZ
