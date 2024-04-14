@@ -13,10 +13,10 @@
 93.0 //centeringMaxSpeedHigh
 89.0 //centeringMaxSpeedLow
 0.0 //debugDisp, debugDisp_searchBasePoint, forceLowLob, gageTest //all in same block
-2.0 //isSkillLowLob, isValid_lowLob	//all in same block
-13.0 //limitBackX
-144 //limitFrontX
-40.0 //limitZRate				//array
-5.0 //searchMaxDist
-0.0 //searchMinDist
-0 //searchTest, searchTest2016, stickTest //all in same block
+257 //isSkillLowLob, isValid_lowLob	//all in same block
+2.0 //limitBackX
+13.0 //limitFrontX
+144 //limitZRate				//array
+40.0 //searchMaxDist
+5.0 //searchMinDist
+0.0 //searchTest, searchTest2016, stickTest //all in same block

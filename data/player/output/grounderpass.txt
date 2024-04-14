@@ -8,11 +8,11 @@
 176 //	autoRecieveSpeedAddDistMax
 -0.1 //	autoRecieveSpeedAddDistMin
 20.0 //	autoRecieveSpeedDecDistMax
-nan //	autoRecieveSpeedDecDistMin
-192 //	
-224 //debug
-0 //	angleXZ
-0 //	dist
+0.9 //	autoRecieveSpeedDecDistMin
+0.7 //	
+nan //debug
+192 //	angleXZ
+224 //	dist
 0 //	enable
 7.0 //	recieveBallSpeed
 0 //	

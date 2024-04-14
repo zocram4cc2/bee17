@@ -1,8 +1,8 @@
 45.0 //angleDelta
-33.75 //angleVelocity
+45.0 //angleVelocity
 4.0 //cornerKickTime1
 8.0 //cornerKickTime2
-8.0 //dist
+6.0 //dist
 2.0 //distDefence
 4.0 //distInner
 5.0 //distShort

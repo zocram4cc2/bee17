@@ -10,7 +10,7 @@
 5.0 //		enable
 16 //	base
 18.0 //	topSpinRot
-7.0 //	
+3.0 //	
 0 //speed
 0 //	addGage
 0 //		addParaRate

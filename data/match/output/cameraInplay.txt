@@ -6,10 +6,10 @@
 0 //	
 0 //	
 0 //cameraMoveAreaSize
-17.2 //	isCustomize
-64.4 //	x
+30.2 //	isCustomize
+110.4 //	x
 0 //	z
-16.5 //	
+20.5 //	
 0 //	
 0.9 //cameraMoveMarginTime
 0.9 //	isCustomize

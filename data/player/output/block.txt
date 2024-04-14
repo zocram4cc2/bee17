@@ -1,9 +1,9 @@
 1 //exec
 32 //
-0.5 //press
+64 //press
 0 //	checkArea
 0.0 //	checkDist
-0 //	checkDistShoot
+1 //	checkDistShoot
 0 //	enable
 0 //	target
 0 //		centering, longPass, shoot, shortPass //all in same byte

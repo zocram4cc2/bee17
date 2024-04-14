@@ -14,5 +14,5 @@
 0 //	stickRate
 1.0 //	
 0 //staggerDribble
-0 //	debugAlways, enable	//all in same block
-1.0 //	enemyDist
+256 //	debugAlways, enable	//all in same block
+0.8 //	enemyDist

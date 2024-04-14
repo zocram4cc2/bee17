@@ -1,5 +1,5 @@
 16 //categorys
-5 //	name
+2 //	name
 192 //	retry
 0 //	
 224 //downPointMin

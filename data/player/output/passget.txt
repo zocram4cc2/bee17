@@ -3,19 +3,19 @@
 1 //	moveKind
 112 //	pressure
 160 //		circleDist
-0 //		mode
-100.0 //		secDiff
-1 //		thinkDelay
-45.0 //	slowMoveEnable
-1 //	
-35.0 //ballArrivalFastSec
-1 //ballAvoidEnable
-0.3 //
-0.0 //defence
-0.4 //	paraMax
-1 //	paraMin
-22.5 //	secMax
-0 //	secMin
+192 //		mode
+0 //		secDiff
+100.0 //		thinkDelay
+1 //	slowMoveEnable
+45.0 //	
+1 //ballArrivalFastSec
+35.0 //ballAvoidEnable
+1 //
+0.3 //defence
+0.0 //	paraMax
+0.4 //	paraMin
+1 //	secMax
+22.5 //	secMin
 0 //	
 0 //inputMoveAir
 9.0 //	ballBound
